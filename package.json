@@ -2,7 +2,7 @@
     "name": "Queen Anna Md",
     "version": "1.0.0",
     "description": "Whatsapp Bot By King Juice",
-    "main": "index.js",
+    "main": "main.js",
     "type": "commonjs",
     "directories": {
         "lib": "lib",
